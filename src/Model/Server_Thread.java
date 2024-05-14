@@ -6,8 +6,9 @@ package Model;
 
 /**
  *
- * @author PC
+ * @author TraAnhTho
  */
 public class Server_Thread {
+    private int port;
     
 }
